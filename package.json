@@ -1,0 +1,22 @@
+{
+  "name": "ehangsoft.cn",
+  "version": "1.0.0",
+  "description": "ehangsoft.cn website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dzheng533/ehangsoft.cn.git"
+  },
+  "author": "Vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzheng533/ehangsoft.cn/issues"
+  },
+  "homepage": "https://github.com/dzheng533/ehangsoft.cn",
+  "dependencies": {
+    "express": "^4.10.6"
+  }
+}
